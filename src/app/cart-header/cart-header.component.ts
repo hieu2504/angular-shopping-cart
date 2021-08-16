@@ -11,6 +11,7 @@ export class CartHeaderComponent implements OnInit {
 
 
   ngOnInit() {
+    
   }
 
 }
